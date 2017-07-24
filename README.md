@@ -1,2 +1,2 @@
 # Semen-Dosing
-A semen dosing system fro vet products
+A semen dosing system for vet products
